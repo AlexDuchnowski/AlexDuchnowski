@@ -6,4 +6,4 @@
 
 🪧 To learn more about me, visit my [personal website](https://alexduchnowski.github.io/website/).
 
-📧 If you'd like to get in touch, you can email me at {firstname}n{lastname}{at}gmail{dot}com.
+📧 If you'd like to get in touch, you can email me at alexnduchnowski{at}gmail{dot}com.
