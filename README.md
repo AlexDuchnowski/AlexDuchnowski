@@ -4,6 +4,6 @@
 
 🔭 I am currently looking for a full-time position where I can grow my natural language processing and machine learning skills as well as develop LLMs or AI-based tools.
 
-🪧 To learn more about me, visit my [personal website](https://alexduchnowski.github.io/website/).
+🪧 To learn more about me, visit my [personal website](https://alexduchnowski.github.io).
 
 📧 If you'd like to get in touch, you can email me at alexnduchnowski{at}gmail{dot}com.
